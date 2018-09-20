@@ -1,0 +1,35 @@
+_repo: London-Signs-and-Inscriptions_53105
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Wheatley, Henry B. (Henry Benjamin)
+    alias: Wheatley, H. B. (Henry Benjamin)
+    birthdate: 1838
+    deathdate: 1917
+    gutenberg_agent_id: '205'
+    url: http://www.gutenberg.org/2009/agents/205
+    wikipedia: http://en.wikipedia.org/wiki/Henry_B._Wheatley
+creator:
+  author:
+    agent_name: Norman, Philip
+    birthdate: 1842
+    deathdate: 1931
+    gutenberg_agent_id: '47218'
+    url: http://www.gutenberg.org/2009/agents/47218
+description: ''
+gutenberg_issued: '2016-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53105'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inscriptions -- England -- London'
+- !lcc 'DA'
+- !lcsh 'London (England) -- Antiquities'
+- !lcsh 'Signs and signboards'
+- GITenberg
+title: London Signs and Inscriptions
+url: http://www.gutenberg.org/ebooks/53105
